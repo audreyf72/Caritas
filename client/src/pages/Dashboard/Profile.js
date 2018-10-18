@@ -104,11 +104,11 @@ render() {
                     <p className="pText">20</p>
  
                     <p className="pHeading">Geographic Area of Interest:</p>
-                    <p className="pText">International</p>
+                    <p className="pText">United States of America</p>
                     </div>
                 </div>
             </div>
-            )};
+            )}
         </div>
         </div>
     </div>
